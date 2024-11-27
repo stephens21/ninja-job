@@ -1,0 +1,11 @@
+<script setup>
+
+</script>
+
+<template>
+  <main>
+    <h1>HomePage</h1>
+    <h3>This is the home page</h3>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium provident necessitatibus corporis obcaecati repudiandae. Quasi omnis recusandae veniam fuga inventore totam impedit, veritatis non repudiandae modi eos eius. Mollitia quae optio odit fugit aliquam tenetur veritatis exercitationem vitae, cupiditate dignissimos delectus aperiam at amet modi, perspiciatis accusantium soluta? Doloremque repellat nisi commodi quos numquam, officiis autem eaque ipsum fugit totam natus vel. Totam error officiis quam, ex molestias dolor libero doloremque iure? A temporibus distinctio voluptate nemo qui facere odit voluptas natus dignissimos laborum officia quisquam, illo atque repellendus provident vel odio debitis earum obcaecati architecto sint saepe iure. Eos impedit beatae enim dolorem iusto itaque, eius sunt quaerat optio natus illo neque eum quia quam at consequuntur facere alias aut laboriosam accusantium earum delectus? Sunt fuga eveniet numquam iure doloribus, a consequuntur repellat autem ratione inventore ex, modi odit! Porro alias eos, animi fugit optio quidem quos, dolores tempore aliquid est sint ea velit facilis, pariatur accusantium cupiditate. Laboriosam, eaque neque! Necessitatibus, explicabo. Ducimus corrupti, maiores architecto minus qui corporis cum magnam. Dolorum, voluptatibus error ad facere dolores pariatur adipisci, architecto, quidem iste aliquid provident reiciendis! Nemo suscipit libero atque hic et inventore, eligendi qui. Molestiae, error obcaecati! Voluptate nesciunt iste facilis magni dicta quia nam sint. Officia odio commodi et atque, iusto nostrum impedit tenetur id quaerat non quae facilis ad quam quod animi aliquid asperiores consectetur? Amet aliquam magni recusandae nesciunt odio, consectetur vitae ipsam nemo sit quia facere atque dicta, fugiat incidunt iste assumenda quis sapiente perspiciatis, quisquam officia. Et quidem architecto numquam libero ipsum dicta dignissimos explicabo necessitatibus. Eos laboriosam minus fuga. Cumque autem laboriosam unde harum distinctio voluptatibus, quisquam fugit minus, repellat rerum labore ut, vitae id quaerat ratione neque aspernatur ad! Autem quos soluta ratione delectus debitis ipsa ipsam impedit maiores facilis blanditiis.</p>
+  </main>
+</template>
